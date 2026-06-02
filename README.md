@@ -20,6 +20,9 @@ The following scripts reproduce the results presented in the paper:
 
 - `Figure4_5_6__main_article.py`  
   Reproduces Figures 4, 5, and 6 from the main article. The script also generates additional figures currently under evaluation for inclusion either in the main manuscript, the Supplementary Information, or future versions of the work.
+
+- `Figure2_3_main_article.py`
+  Reproduces Figures 2, and 3 from the main article.
   
   All provided scripts can be used to model VO$_2$ films using the explicit electrothermal LLP formulation. For questions, please contact the authors. If you use this code, please cite the associated publication.
   If you use the LLP model to study other metal–insulator transition materials, feel free to share your results with us — we would be happy to hear about your work.
